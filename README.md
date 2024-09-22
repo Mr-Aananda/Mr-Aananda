@@ -24,7 +24,7 @@ I am a passionate **Web Developer** specializing in **Laravel** for server-side 
 
 ## 🚀 Projects
 
-### [Dealership Management System](http://khurak.almakgroup.com) | [Admin Panel](http://tandur.almakgroup.com/admin/login)  
+### [Dealership Management System](http://khurak.famicart.com) | [Admin Panel](http://tandur.famicart.com/admin/login)  
 A comprehensive system for managing dealership operations, inventory, customer transactions, and employee management.  
 - **Technologies**: `Laravel`, `Vite`, `Vue.js`, `Pinia`, `MySQL`, `Cron Jobs`, `Role & Permission`  
 - **My Role**: Led the project, designed the architecture, and developed the database.
@@ -57,7 +57,7 @@ A system to manage orders, tailor measurements, payroll, and SMS notifications f
 ### [ShohozSales](https://shohozsales.com)  
 A feature-rich POS and inventory management system with reporting tools and income/expense tracking.  
 - **Technologies**: `Laravel`, `InertiaJS`, `Vue.js`, `Vuex`, `MySQL`, `Git`  
-- **My Role**: Contributed to 50% of the project, focusing on backend logic, troubleshooting, and bug fixing.
+- **My Role**: Primarily involved providing support to teammates and the project manager, focusing on backend logic, troubleshooting, and bug fixing.
 
 ### [Construction Billing Application](https://www.account.ranbuilders.com)  
 A billing solution for construction companies, offering service creation, multiple payment options, and SMS notifications.  
