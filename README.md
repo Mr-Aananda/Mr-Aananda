@@ -22,12 +22,12 @@ I am a passionate **Web Developer** specializing in **Laravel** for server-side 
 
 ## 🚀 Projects
 
-### [Dealership Management System](http://khurak.famicart.com) | [Admin Panel](http://tandur.famicart.com/admin/login)  
+### [Dealership Management System](http://khurak.utkorshoit.com) | [Admin Panel](http://tandur.utkorshoit.com/admin/login)  
 A comprehensive system for managing dealership operations, inventory, customer transactions, and employee management.  
 - **Technologies**: `Laravel`, `Vite`, `Vue.js`, `Pinia`, `MySQL`, `Cron Jobs`, `Role & Permission`  
 - **My Role**: Led the project, designed the architecture, and developed the database.
 
-### [Restaurant Management & Billing System](http://ayesh.almakgroup.com)  
+### [Restaurant Management & Billing System](http://ayesh.utkorshoit.com)  
 A full-featured POS and restaurant management system with billing, reservations, and SMS notifications.  
 - **Technologies**: `Laravel`, `Vue.js`, `Pinia`, `Spatie`, `MySQL`, `Role & Permission`, `Cron Jobs`  
 - **My Role**: Contributed to 60% of the development, handling the architecture, database, and key features.
