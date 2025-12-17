@@ -1,112 +1,181 @@
-# 👋 Hi, I'm Mahmudur Rahman Ananda  
-**Web Developer | PHP & Laravel Expert | Full-Stack Enthusiast**
+<p align="center">
+  <img src="profile.jpg" width="160" style="border-radius: 50%;" alt="Mahmudur Rahman Ananda" />
+</p>
 
-I am a passionate **Web Developer** specializing in **Laravel** for server-side programming, **API development**, and **database management**. I love turning complex problems into simple, scalable, and innovative solutions. With expertise in both **backend** and **frontend** development, I collaborate effectively with cross-functional teams to create polished, user-centric web applications.
+<h1 align="center">Mahmudur Rahman Ananda</h1>
+<p align="center">
+  Web Developer | PHP & Laravel Expert | Full-Stack Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mr-aananda">LinkedIn</a> •
+  <a href="https://github.com/Mr-Aananda">GitHub</a> •
+  <a href="mailto:rmananda007@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🔧 Technologies & Tools  
-**Backend**:  
-`PHP`, `Laravel`, `MySQL`, `SQLite`, `RESTful APIs`, `Laravel Mix`, `Vite`, `Eloquent ORM`, `Modular Architecture`  
+## 👋 About Me
 
-**Frontend**:  
-`Vue.js`, `Pinia`, `Vuex`, `InertiaJS`, `Livewire`, `Alpine.js`, `JavaScript`, `jQuery`, `Tailwind CSS`, `ReactJS`  
+I am a passionate **Web Developer** specializing in **Laravel**, **API development**, and **database-driven applications**. I enjoy transforming complex business requirements into clean, scalable, and maintainable solutions.
 
-**Other**:  
-`Git`, `Composer`, `Docker`, `Payment Gateway Integration`, `SMS & Email Notifications`, `Cron Jobs`  
+With strong experience in both **backend** and **frontend** development, I collaborate effectively with designers, managers, and fellow engineers to deliver reliable, user-focused web applications.
 
-**Tools & IDEs**:  
-`Visual Studio Code`, `PHPStorm`, `Sublime Text`, `MS Excel`, `MS Word`, `MS PowerPoint`
+My core strength lies in **system architecture, database design, and business logic**, especially for POS, billing, inventory, and management systems.
+
+---
+
+## 🔧 Technologies & Tools
+
+### Backend
+- PHP, Laravel
+- MySQL, SQLite
+- RESTful APIs
+- Eloquent ORM
+- Modular Architecture
+- Laravel Mix, Vite
+- Cron Jobs
+
+### Frontend
+- Vue.js, Pinia, Vuex
+- InertiaJS, Livewire, Alpine.js
+- JavaScript, jQuery
+- Tailwind CSS
+- ReactJS
+
+### Other
+- Git, Composer, Docker
+- Payment Gateway Integration
+- SMS & Email Notifications
+
+### Tools & IDEs
+- Visual Studio Code
+- PHPStorm
+- Sublime Text
+- MS Excel, Word, PowerPoint
 
 ---
 
 ## 🚀 Projects
 
-### [Dealership Management System](http://khurak.utkorshoit.com) | [Admin Panel](http://tandur.utkorshoit.com/admin/login)  
-A comprehensive system for managing dealership operations, inventory, customer transactions, and employee management.  
-- **Technologies**: `Laravel`, `Vite`, `Vue.js`, `Pinia`, `MySQL`, `Cron Jobs`, `Role & Permission`  
-- **My Role**: Led the project, designed the architecture, and developed the database.
+### Dealership Management System  
+🔗 http://khurak.utkorshoit.com  
+🔐 Admin: http://tandur.utkorshoit.com/admin/login  
 
-### [Restaurant Management & Billing System](http://ayesh.utkorshoit.com)  
-A full-featured POS and restaurant management system with billing, reservations, and SMS notifications.  
-- **Technologies**: `Laravel`, `Vue.js`, `Pinia`, `Spatie`, `MySQL`, `Role & Permission`, `Cron Jobs`  
-- **My Role**: Contributed to 60% of the development, handling the architecture, database, and key features.
+A complete dealership operation platform covering inventory, customer transactions, and employee management.  
+**Tech Stack:** Laravel, Vite, Vue.js, Pinia, MySQL  
+**Role:** Project lead — system architecture & database design
 
-### [Utkorsho IT Website](http://utkorshoit.com)  
-A dynamic, Laravel-powered website with customizable product management, sliders, and email/SMS notifications.  
-- **Technologies**: `Laravel`, `Vue.js`, `Inertia`, `Vite`, `MySQL`, `Role & Permission`  
-- **My Role**: Led the development of core features, completing about 50% of the project.
+---
 
-### [Scrap Management System](http://bokulstore.apsbd.xyz)  
-A solution for managing scrap material collection, employee assignments, and SMS integration for real-time updates.  
-- **Technologies**: `Laravel`, `Vue.js`, `MySQL`, `Git`  
-- **My Role**: Solely responsible for 100% of the development from start to finish, including architecture, database design, and deployment.
+### Restaurant Management & Billing System  
+🔗 http://ayesh.utkorshoit.com  
 
-### [Cable Billing Management System](https://github.com/Mr-Aananda/cable-billing-management)  
-A Laravel-based billing and expense management platform for cable operators, integrated with SMS notifications.  
-- **Technologies**: `Laravel`, `ReactJS`, `MySQL`, `Git`  
-- **My Role**: Led the project, designing the architecture, implementing core features, and managing all backend functionality.
+POS-based restaurant system with billing, reservations, and SMS notifications.  
+**Tech Stack:** Laravel, Vue.js, Pinia, Spatie  
+**Role:** ~60% contribution — architecture, database, core features
 
-### [Tailor Management System](http://fops.shohozsalesbd.xyz)  
-A system to manage orders, tailor measurements, payroll, and SMS notifications for client updates.  
-- **Technologies**: `Laravel`, `ReactJS`, `MySQL`, `Git`  
-- **My Role**: Led 80% of the project, including backend architecture and database development.
+---
 
-### [ShohozSales](https://shohozsales.com)  
-A feature-rich POS and inventory management system with reporting tools and income/expense tracking.  
-- **Technologies**: `Laravel`, `InertiaJS`, `Vue.js`, `Vuex`, `MySQL`, `Git`  
-- **My Role**: Primarily involved providing support to teammates and the project manager, focusing on backend logic, troubleshooting, and bug fixing.
+### Utkorsho IT Website  
+🔗 http://utkorshoit.com  
 
-### [Construction Billing Application](https://www.account.ranbuilders.com)  
-A billing solution for construction companies, offering service creation, multiple payment options, and SMS notifications.  
-- **Technologies**: `Laravel`, `MySQL`, `Git`  
-- **My Role**: Led the project with full responsibility for the database design and backend implementation.
+Dynamic company website with product management and notification system.  
+**Tech Stack:** Laravel, Vue.js, Inertia, Vite  
+**Role:** ~50% contribution — core backend & features
+
+---
+
+### Scrap Management System  
+🔗 http://bokulstore.apsbd.xyz  
+
+End-to-end system for scrap collection, employee management, and SMS updates.  
+**Tech Stack:** Laravel, Vue.js, MySQL  
+**Role:** Sole developer — 100% ownership
+
+---
+
+### Cable Billing Management System  
+🔗 https://github.com/Mr-Aananda/cable-billing-management  
+
+Billing and expense management system for cable operators.  
+**Tech Stack:** Laravel, ReactJS, MySQL  
+**Role:** Full backend ownership & system architecture
+
+---
+
+### Tailor Management System  
+🔗 http://fops.shohozsalesbd.xyz  
+
+Order, measurement, payroll, and SMS-based client update system.  
+**Tech Stack:** Laravel, ReactJS, MySQL  
+**Role:** ~80% contribution — backend & database
+
+---
+
+### ShohozSales  
+🔗 https://shohozsales.com  
+
+POS and inventory management system with reporting and accounting features.  
+**Tech Stack:** Laravel, InertiaJS, Vue.js  
+**Role:** Backend support, debugging, and logic optimization
+
+---
+
+### Construction Billing Application  
+🔗 https://www.account.ranbuilders.com  
+
+Billing system for construction services with multiple payment options.  
+**Tech Stack:** Laravel, MySQL  
+**Role:** Project lead — database & backend implementation
 
 ---
 
 ## 🌟 Experience
 
-**Software Developer, Utkorsho IT**  
-_2023 - Present_  
-- Developing high-quality, scalable web applications using **PHP** and **Laravel**.
-- Building **RESTful APIs**, optimizing database performance, and ensuring system reliability.
-- Collaborating with cross-functional teams to deliver robust, user-friendly applications.
+### Software Developer — Utkorsho IT  
+**2023 – Present**
+- Developing scalable web applications using Laravel
+- Designing RESTful APIs and optimizing database performance
+- Collaborating with cross-functional teams
 
-**Backend Developer, Meta Soft** _(Part-time)_  
-_2023 - Present_  
-- Provided dedicated web development support, implementing efficient backend solutions and features based on client requirements.
+### Backend Developer (Part-time) — Meta Soft  
+**2023 – Present**
+- Delivered backend solutions based on client requirements
+- Improved performance and feature stability
 
-**Web Developer, MaxSOP**  
-_2021 - 2023_  
-- Assisted in the development of **Laravel**-based applications, participated in code reviews, and improved database performance.
+### Web Developer — MaxSOP  
+**2021 – 2023**
+- Assisted in Laravel application development
+- Participated in code reviews and database optimization
 
 ---
 
 ## 🎓 Education
 
 **BSc in Computer Science & Engineering**  
-_IUBAT - International University of Business Agriculture and Technology_  
-_2013 - 2020_
+International University of Business Agriculture and Technology (IUBAT)  
+**2013 – 2020**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mr-Aananda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Aananda&show_icons=true&theme=radical&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Aananda&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Aananda&layout=compact&theme=radical&langs_count=8)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
-- ![Stars](https://img.shields.io/github/stars/Mr-Aananda?style=flat-square&logo=github) **Top Starred Projects**
-- ![Followers](https://img.shields.io/github/followers/Mr-Aananda?style=flat-square&logo=github) **Growing Follower Base**
-- ![Contributions](https://img.shields.io/github/contributions/year/Mr-Aananda?style=flat-square) **Active in Open Source**
+- ⭐ Top Starred Projects
+- 👥 Growing Follower Base
+- 🔁 Active Open Source Contributions
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let’s Connect
 
-- **LinkedIn**: [Mahmudur Rahman Ananda](https://linkedin.com/in/mr-aananda)  
-- **GitHub**: [Mr-Aananda](https://github.com/Mr-Aananda)  
-- **Email**: [rmananda007@gmail.com](mailto:rmananda007@gmail.com)
+- **LinkedIn:** https://linkedin.com/in/mr-aananda  
+- **GitHub:** https://github.com/Mr-Aananda  
+- **Email:** rmananda007@gmail.com
